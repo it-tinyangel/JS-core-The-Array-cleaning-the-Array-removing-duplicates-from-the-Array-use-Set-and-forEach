@@ -1,2 +1,5 @@
-# JS-core-The-Array-cleaning-the-Array-removing-duplicates-from-the-Array-use-Set-and-forEach
-Module 3. JS Core. Lesson 10. Test 4. The Array. Array cleaning. Removing duplicates from the Array. Using the `Set()` constructor &amp; the `forEach()` method of Array.
+# Module 3. JS Core. Lesson 10. Test 4.
+
+# The Array. Array cleaning. Removing duplicates from the Array.
+
+The removeDuplicates(arr) function takes an array arr and returns the array from which the duplicates were removed, case ignoring. Using the `Set()` constructor and the `forEach()` method of Array.
