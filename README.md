@@ -1,4 +1,4 @@
-# Module 3. JS Core. Lesson 10. Test 4.
+# Module 3. JS Core. Lesson 10. Task 4.
 
 # The Array. Array cleaning. Removing duplicates from the array.
 
