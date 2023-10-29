@@ -1,13 +1,13 @@
 // Function to remove duplicate elements from an array.
 function removeDuplicates(arr) {
-	const cleanedSet = new Set();
+	const nonDuplicatesSet = new Set();
 
 	arr.forEach(item => {
 		const lowercaseItem = item.toLowerCase();
-		cleanedSet.add(lowercaseItem);
+		nonDuplicatesSet.add(lowercaseItem);
 	});
 
-	const cleanedArray = Array.from(cleanedSet);
+	const cleanedArray = Array.from(nonDuplicatesSet);
 
 	return cleanedArray;
 }
